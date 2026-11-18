@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+department_store_preview.png
+tree_*.png
+department_store_*.png
